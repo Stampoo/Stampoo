@@ -15,6 +15,8 @@ My name is Ilya and i'm software developer :)
 
 ![](https://github-readme-stats.vercel.app/api?username=Stampoo&hide=stars,issues&count_private=true&bg_color=f1dfdb&title_color=c8304b&text_color=5a123d)
 
-![](https://github-readme-stats.vercel.app/api/pin?username=Stampoo&repo=SnapshotSafeView&bg_color=f1dfdb&title_color=c8304b&text_color=5a123d)
+[![](https://github-readme-stats.vercel.app/api/pin?username=Stampoo&repo=MvvmUIKitExample&bg_color=f1dfdb&title_color=c8304b&text_color=5a123d)](https://github.com/Stampoo/MvvmUIKitExample)
 
-![](https://github-readme-stats.vercel.app/api/pin?username=Stampoo&repo=MvvmUIKitExample&bg_color=f1dfdb&title_color=c8304b&text_color=5a123d)
+[![](https://github-readme-stats.vercel.app/api/pin?username=Stampoo&repo=GraphQlQueryBuilder&bg_color=f1dfdb&title_color=c8304b&text_color=5a123d)](https://github.com/Stampoo/GraphQlQueryBuilder)
+
+[![](https://github-readme-stats.vercel.app/api/pin?username=Stampoo&repo=SnapshotSafeView&bg_color=f1dfdb&title_color=c8304b&text_color=5a123d)](https://github.com/Stampoo/SnapshotSafeView)
